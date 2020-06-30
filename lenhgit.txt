@@ -1,0 +1,2 @@
+git init  --- khởi tạo repository local -> nó sẽ tạo cho mình 1 folder ẩn , nó sẽ hiểu đây là 1 kho local
+git add --- > đẩy lên file ( nếu đẩy all thì git add . hoặc git add -a , hoặc đẩy file nào thì gõ tên ra )
