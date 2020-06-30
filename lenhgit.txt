@@ -1,2 +1,8 @@
+///***vai trò là leader***///
 git init  --- khởi tạo repository local -> nó sẽ tạo cho mình 1 folder ẩn , nó sẽ hiểu đây là 1 kho local
 git add --- > đẩy lên file ( nếu đẩy all thì git add . hoặc git add -a , hoặc đẩy file nào thì gõ tên ra )
+git  commit -m " message" --- commit code lên (bên trong dấu nháy là comment).
+git remote add origin +link repository (tạo kết nối giữa local vs global : chỉ người khởi tạo cần làm bước này thôi)
+git push -u origin master : đẩy code lên.
+///***vai trò là 1 dev***///
+git clone + link dự án
